@@ -1,0 +1,5 @@
+classes= 3
+train  = /home/wmslab/test1/cfg/train.txt
+valid  = /home/wmslab/test1/cfg/test.txt
+names = /home/wmslab/test1/cfg/obj.names
+backup = /home/wmslab/test1/cfg/weights/
